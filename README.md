@@ -1,2 +1,2 @@
 # Sql-zoo
-Sloved exercises for the SQL Tutorial SQL ZOO.
+Sloved exercises for the SQL Tutorial SQL ZOO on https://sqlzoo.net/wiki/SQL_Tutorial.
